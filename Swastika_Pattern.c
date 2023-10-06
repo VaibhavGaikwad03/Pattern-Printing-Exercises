@@ -1,3 +1,16 @@
+/*
+Write a program which accept number from the user and print below pattern
+
+Input: 5
+Output:
+*   * * *
+*   *
+* * * * *
+    *   *
+* * *   *
+
+*/
+
 #include <stdio.h>
 
 void swastika_pattern(int num)
